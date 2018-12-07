@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 303 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  template tracking.vcxproj -> C:\template tracking\x64\Release\template tracking.exe
